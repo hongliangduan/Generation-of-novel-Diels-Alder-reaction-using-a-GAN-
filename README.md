@@ -23,5 +23,3 @@ Use make_data.ipynb to create the data to be used for SMILES-MaskGAN and save it
 ```maskgan.pt```
 ## Train
 Command line: python run_maskgan.py
-# Generation-of-novel-Diels-Alder-reaction-using-a-GAN
-# Generation-of-novel-Diels-Alder-reaction-using-a-GAN
